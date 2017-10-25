@@ -1,0 +1,2 @@
+https://www.raywenderlich.com/103540/geofences-googleapiclient
+https://developer.android.com/training/location/geofencing.html
