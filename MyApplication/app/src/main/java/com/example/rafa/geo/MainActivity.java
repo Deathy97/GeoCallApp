@@ -33,10 +33,8 @@ public class MainActivity extends Activity {
     Location location;
     LocationManager locationManager;
     LocationListener locationListener;
-    private final double latitud = 41.639475;
-    private final double longitud = -0.906729;
     double latitudActual, longitudActual;
-    String numero = "976550758";
+    String numero = "";
 
     @RequiresApi(api = Build.VERSION_CODES.N)
 
